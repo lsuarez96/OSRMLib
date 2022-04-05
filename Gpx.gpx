@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+  <wpt lat="23.101797" lon="-82.370479">
+    <ele>0.0</ele>
+    <name>(1)</name>
+  </wpt>
+  <wpt lat="23.103009" lon="-82.369198">
+    <ele>0.0</ele>
+    <name>(2)</name>
+  </wpt>
+  <wpt lat="23.100521" lon="-82.371043">
+    <ele>0.0</ele>
+    <name>(3)</name>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="23.101797" lon="-82.370479">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101764" lon="-82.370588">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101446" lon="-82.370481">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101232" lon="-82.369814">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101155" lon="-82.369575">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101295" lon="-82.369225">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.10209" lon="-82.369515">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.102849" lon="-82.369773">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.103009" lon="-82.369198">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.103167" lon="-82.368626">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.103804" lon="-82.368856">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.10349" lon="-82.36998">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.102849" lon="-82.369773">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.10209" lon="-82.369515">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101295" lon="-82.369225">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101014" lon="-82.369132">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100944" lon="-82.368914">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100696" lon="-82.368818">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.099914" lon="-82.369139">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100168" lon="-82.369924">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100218" lon="-82.370081">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100258" lon="-82.370204">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100521" lon="-82.371043">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.100258" lon="-82.370204">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101232" lon="-82.369814">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101155" lon="-82.369575">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101295" lon="-82.369225">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.10209" lon="-82.369515">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="23.101797" lon="-82.370479">
+        <ele>0.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
